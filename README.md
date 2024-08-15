@@ -1,3 +1,4 @@
 Source code of the list of questions I have posted on StackOverflow
 
-- lambda_capture_segmentation_fault
+- [C++ Why does a lambda with a captured reference lead to a segmentation fault when compiled with gcc but not with clang?](https://stackoverflow.com/questions/78876722/c-why-does-a-lambda-with-a-captured-reference-lead-to-a-segmentation-fault-whe)
+
